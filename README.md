@@ -1,9 +1,9 @@
-# Otosclerosis
+Otosclerosis
+------------
 
 Authors:
 * Pablo Menéndez Fernández-Miranda MD, PhD, MSc [✉️](mailto:pablomenendezfernandezmiranda@gmail.com).
 * Marta Álvarez de Linera Alperi MD, PhD.
-
 --------------
 
 
