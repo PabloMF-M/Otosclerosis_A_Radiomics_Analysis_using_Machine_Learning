@@ -1,5 +1,4 @@
 # Otosclerosis
---------------
 
 Author: Pablo Menéndez Fernández-Miranda MD, PhD (pablomenendezfernandezmiranda@gmail.com).
 
