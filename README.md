@@ -2,7 +2,13 @@ Otosclerosis
 --------------
 
 Author:
-* Pablo Menéndez Fernández-Miranda MD, PhD (pablomenendezfernandezmiranda@gmail.com).
+* Pablo Menéndez Fernández-Miranda MD, PhD, MSc (pablomenendezfernandezmiranda@gmail.com).
+* Marta Álvarez de Linera Alperi MD, PhD (pablomenendezfernandezmiranda@gmail.com).
+
+**Author 1:** Pablo Menéndez Fernández-Miranda MD, PhD, MSc  [✉️](mailto:pablomenendezfernandezmiranda@gmail.com)
+
+**Author 2:** Marta Álvarez de Linera Alperi MD, PhD.
+
 
 
 
