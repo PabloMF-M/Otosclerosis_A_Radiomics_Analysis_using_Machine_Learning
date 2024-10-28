@@ -2,7 +2,7 @@
 DATABASES
 ---------
 
-In this project, several databases have been used, which are detailed below; some of which have not been included in this repository for privacy and anonymization reasons.
+In this project, several databases have been used, which are detailed below. Some listed databases have not been included in this repository for privacy and anonymization reasons.
 
 
 A. Clinical data
