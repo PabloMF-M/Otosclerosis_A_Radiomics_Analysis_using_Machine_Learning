@@ -1,0 +1,77 @@
+# Para file for AF segmentation
+
+# Extracted using PyRadiomics version: <<3.1.0a2.post14+gaab3c6f>  
+
+######################################
+
+imageType:
+
+  # Adjusted bin widths:
+
+  Original:
+    binWidth: 35.930000
+  Square: 
+    binWidth: 39.234190
+  SquareRoot: 
+    binWidth: 26.650614
+  Logarithm: 
+    binWidth: 10.514937
+  Exponential: 
+    binWidth: 23.866770
+  Gradient: 
+    binWidth: 29.831300
+  LoG:
+    binWidth: 15.0 # Mean of LoG ranges median divided by 50.
+    sigma: [1.0, 2.0, 3.0, 4.0, 5.0]
+  Wavelet: 
+    binWidth: 52 # Mean of wavelets ranges median divided by 50.
+  LBP3D:
+    binWidth: 1.0 # Not changed.
+    
+featureClass:
+
+  shape:
+  firstorder:
+  glcm:
+    - 'Autocorrelation'
+    - 'JointAverage'
+    - 'ClusterProminence'
+    - 'ClusterShade'
+    - 'ClusterTendency'
+    - 'Contrast'
+    - 'Correlation'
+    - 'DifferenceAverage'
+    - 'DifferenceEntropy'
+    - 'DifferenceVariance'
+    - 'JointEnergy'
+    - 'JointEntropy'
+    - 'Imc1'
+    - 'Imc2'
+    - 'Idm'
+    - 'Idmn'
+    - 'Id'
+    - 'Idn'
+    - 'InverseVariance'
+    - 'MaximumProbability'
+    - 'SumEntropy'
+    - 'SumSquares'
+  glrlm:
+  glszm:
+  gldm:
+  ngtdm:
+  
+setting:
+  # Resampling:
+  interpolator: 'sitkBSpline'
+  resampledPixelSpacing: [1, 1, 1]
+  padDistance: 10
+
+  # Mask validation:
+  minimumROISize: 1
+  correctMask: true
+
+  # first order specific settings:
+  voxelArrayShift: 1000
+
+  # Misc:
+  label: 1
