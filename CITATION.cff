@@ -1,4 +1,4 @@
-cff-version: 2.0.0
+cff-version: 1.0.0
 message: "If you use the materials of this repository, please cite it as below."
 
 authors:
@@ -10,9 +10,7 @@ authors:
     given-names: Marta
     orcid: https://orcid.org/0000-0003-3234-4791
 
-title: "intracranial-hemorrhages"
-version: 2.0.0
-identifiers:
-  - type: doi
-    value: 10.5281/zenodo.8040891
-date-released: 2023-06-15
+title: "Otosclerosis - A Radiomics Analysis using Machine Learning"
+version: 1.0.0
+
+date-released: 2024-12-01
