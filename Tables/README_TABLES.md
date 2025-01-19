@@ -15,39 +15,29 @@ The 2_ tables present the results of inferential statistics: 2_1 for the normali
 
     -  1_3 ----> Dates
 
-
 * 2_ ----> Inferential Statistics (Hypothesis Contrasts)
-
 
     - 2_1 ----> Shapiro-Wilk tests (quantitative variables)
 
-
     - 2_2 ----> Otosclerosis vs Non-otosclerosis
-
 
     - 2_2_1 ----> Student T-tests (normal variables)
       * 2_2_1s ----> Statistically significant Student T-tests
 
-
     - 2_2_2 ----> U-Mann-Whitney tests (quantitative non-normal variables)
-             - 2_2_2s ----> Statistically significant U-Mann-Whitney tests
-
+      * 2_2_2s ----> Statistically significant U-Mann-Whitney tests
 
     - 2_2_3 ----> Chi-square tests with Monte Carlo simulated p-value (categorical variables)
-             - 2_2_3s ----> Statistically significant Chi-square test
-
+      * 2_2_3s ----> Statistically significant Chi-square test
 
     - 2_3 ---->  Otosclerosis_Contralateral_Healthy_Ear vs Non-otosclerosis
 
-
     - 2_3_1 ----> Student T-tests (normal variables)
-             - 2_3_1s ----> Statistically significant Student T-tests
-
+      * 2_3_1s ----> Statistically significant Student T-tests
 
     - 2_3_2 ----> U-Mann-Whitney tests (non-normal variables)
-             - 2_3_2s ----> Statistically significant U-Mann-Whitney tests
-
+      * 2_3_2s ----> Statistically significant U-Mann-Whitney tests
 
     - 2_3_3 ----> Chi-square tests with Monte Carlo simulated p-value (categorical variables)
-             - 2_3_3s ----> Statistically significant Chi-square test
+      * 2_3_3s ----> Statistically significant Chi-square test.
 
