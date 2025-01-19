@@ -1,0 +1,10 @@
+,count (n),percentage (%)
+No,18,18.18
+"Sí, confirmación clínica + TC",1,1.01
+"Sí, confirmación clínica + TC, pero no intervenido",5,5.05
+"Sí, confirmación quirúrgica con TC+",14,14.14
+"Sí, confirmación quirúrgica con TC-",0,0.0
+"Sí, sospecha en TC",12,12.12
+"Sí, sospecha en clínica",1,1.01
+NA,48,48.48
+TOTAL,99,99.99
