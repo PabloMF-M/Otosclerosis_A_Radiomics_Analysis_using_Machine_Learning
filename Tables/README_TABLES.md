@@ -26,7 +26,7 @@ The 2_ tables present the results of inferential statistics: 2_1 for the normali
 
 
     - 2_2_1 ----> Student T-tests (normal variables)
-             - 2_2_1s ----> Statistically significant Student T-tests
+             -- 2_2_1s ----> Statistically significant Student T-tests
 
 
     - 2_2_2 ----> U-Mann-Whitney tests (quantitative non-normal variables)
