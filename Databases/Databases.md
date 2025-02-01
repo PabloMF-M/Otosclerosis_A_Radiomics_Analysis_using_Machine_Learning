@@ -8,7 +8,7 @@ In this project, several databases have been used, which are detailed below. Som
 A. Clinical data
 ----------------
 
-1. 0_Otosclerosis_clinical_data.xlsx: raw clinical data collected.
+* 0_Otosclerosis_clinical_data.xlsx: raw clinical data collected.
 
 1. 1_df_clinical_data_anonymized.csv/xlsx: clinical data collected after anonymize patient ID and dates.
 
@@ -56,5 +56,5 @@ B.3. Cleaned radiomic features
 B.4. Cleaned and merge clinical data and radiomic features
 ----------------------------------------------------------
 
-12.- 6_df_radiomics_&_clinical.csv/xlsx/feather: database with cleaned radiomic and clinical data.
+12. 6_df_radiomics_&_clinical.csv/xlsx/feather: database with cleaned radiomic and clinical data.
 
