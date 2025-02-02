@@ -1,3 +1,4 @@
+The figures generated in the notebooks are not displayed in this directory, they are located in the notebooks.
 
 Figures:
  - 0. Segmentation_AF_example.png
