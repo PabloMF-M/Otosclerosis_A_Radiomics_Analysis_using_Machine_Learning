@@ -1,0 +1,42 @@
+
+Figures:
+ - 0. Segmentation_AF_example.png
+ - 0. Segmentation_STAPES_3D_1.obj
+ - 0. Segmentation_STAPES_3D_1.stl
+ - 0. Segmentation_STAPES_3D_2..stl
+ - 0. Segmentation_STAPES_3D_2.1.mov
+ - 0. Segmentation_STAPES_3D_2.2.mov
+ - 0. Segmentation_STAPES_3D_2.obj
+ - 0. Segmentation_STAPES_example.png
+ - 1_corr_AF_feature_selection_process.png
+ - 1_corr_OW_feature_selection_process.png
+ - 1_corr_STAPES_feature_selection_process.png
+ - 2_1_violin_plots_all_quantitatives.mov
+ - 2_1_violin_plots_all_quantitatives.pdf
+ - 2_1_violin_plots_all_quantitatives.png
+ - 2_2_bar_plots_all_categories_qualitatives.pdf
+ - 2_3_bar_plots_all_dates.pdf
+ - 3_1_1_norm_qq_plots_normal_vars.png
+ - 3_1_2_norm_qq_plots_non_normal_vars.pdf
+ - 3_2_1_violin_plots_sig_vars.pdf
+ - 3_2_1_violin_plots_sig_vars.png
+ - 3_2_2_box_plots_sig_vars.pdf
+ - 3_2_2_box_plots_sig_vars.png
+ - 3_2_3_hist_plots_sig_vars.pdf
+ - 3_2_3_hist_plots_sig_vars.png
+ - 3_2_4_plots_most_sig_vars.pdf
+ - 3_2_4_plots_most_sig_vars.png
+ - 3_2_5_bar_plots_categorical_vars.pdf
+ - 3_2_5_bar_plots_categorical_vars.png
+ - 3_2_6_bar_plots_categorical_vars_contr_ear.pdf
+ - 3_2_6_bar_plots_categorical_vars_contr_ear.png
+ - 4_1_ROC_best_model_LR_sig_features.pdf
+ - 4_1_ROC_best_model_LR_sig_features.png
+ - 4_2_1_HC_Most_Sig_vars.pdf
+ - 4_2_1_HC_Most_Sig_vars.png
+ - 4_2_2_HC_Most_Imp_RF_vars.pdf
+ - 4_2_2_HC_Most_Imp_RF_vars.png
+ - 4_2_3_HC_Sig_vars.pdf
+ - 4_2_3_HC_Sig_vars.png
+ - 4_2_4_4_HC_Radiomic_Features.pdf
+ - 4_2_4_4_HC_Radiomic_Features.png
