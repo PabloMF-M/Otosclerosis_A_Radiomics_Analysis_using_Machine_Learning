@@ -1,57 +1,53 @@
-,Variable,n,%,n (Non-otos),%(Non-otos),n(Otosclerosis),%(Otosclerosis),Chi2 stat,Chi2 p-value,FDR corrected p-value,result
-0,Sex,99,100.0,51,51.515151515151516,48,48.484848484848484,3.55954204905259,0.5049,0.7470545454545454,Non-significant
-1,     Male,58,58.59,35,35.35,23,23.23,,,,Non-significant
-2,     Female,41,41.41,16,16.16,25,25.25,,,,Non-significant
-3,Pathological_Ear,99,100.0,51,51.515151515151516,48,48.484848484848484,0.2558564675870349,0.5669,0.7470545454545454,Non-significant
-4,     Right ear,50,50.51,24,24.24,26,26.26,,,,Non-significant
-5,     Left ear,49,49.49,27,27.27,22,22.22,,,,Non-significant
-6,Hearing_impairment_Pathological_Ear,51,100.0,3,5.882352941176471,48,94.11764705882354,2.6314985795454544,0.6848,0.7470545454545454,Non-significant
-7,     (40-70 dB),32,62.75,1,1.96,31,60.78,,,,Non-significant
-8,     (70-90 dB),11,21.57,1,1.96,10,19.61,,,,Non-significant
-9,     (20-40 dB),5,9.8,1,1.96,4,7.84,,,,Non-significant
-10,     (> 90 dB),2,3.92,0,0.0,2,3.92,,,,Non-significant
-11,     (<20 dB),1,1.96,0,0.0,1,1.96,,,,Non-significant
-12,Carhart_notch,51,100.0,3,5.882352941176471,48,94.11764705882354,0.39632936507936506,0.8176,0.8176,Non-significant
-13,     Absence,28,54.9,2,3.92,26,50.98,,,,Non-significant
-14,     <15dB,18,35.29,1,1.96,17,33.33,,,,Non-significant
-15,     >15dB,5,9.8,0,0.0,5,9.8,,,,Non-significant
-16,Temporal_Bone_CT_scan_Findings_Pathological_Ear,99,100.0,51,51.515151515151516,48,48.484848484848484,74.35668103448276,0.5134,0.7470545454545454,Non-significant
-17,     No findings,58,58.59,51,51.52,7,7.07,,,,Non-significant
-18,     Fenestral,39,39.39,0,0.0,39,39.39,,,,Non-significant
-19,     Retro. + fenestral,2,2.02,0,0.0,2,2.02,,,,Non-significant
-20,Surgical_Treatment,51,100.0,3,5.882352941176471,48,94.11764705882354,33.30612244897959,0.4618,0.7470545454545454,Non-significant
-21,     Stapedotomy,49,96.08,1,1.96,48,94.12,,,,Non-significant
-22,     Stap. malformation,1,1.96,1,1.96,0,0.0,,,,Non-significant
-23,     Tympanoplasty,1,1.96,1,1.96,0,0.0,,,,Non-significant
-24,     Miring + prosthesis,0,0.0,0,0.0,0,0.0,,,,Non-significant
-25,Post_surgical_Vertigo,51,100.0,3,5.882352941176471,48,94.11764705882354,0.023285308441558444,0.506,0.7470545454545454,Non-significant
-26,     No,44,86.27,2,3.92,42,82.35,,,,Non-significant
-27,     Yes,7,13.73,1,1.96,6,11.76,,,,Non-significant
-28,One_Week_Post_surgical_Tonal_Audiometry_Pathological_Ear,33,100.0,1,3.0303030303030303,32,96.96969696969697,33.0,0.0,0.0,Significant
-29,     Mixed HL,25,75.76,0,0.0,25,75.76,,,,Significant
-30,     Sensorial HL,7,21.21,0,0.0,7,21.21,,,,Significant
-31,     Conductive HL,1,3.03,1,3.03,0,0.0,,,,Significant
-32,     Normal hearing,0,0.0,0,0.0,0,0.0,,,,Significant
-33,Hearing_impairment_One_Week_Post_surgical,33,100.0,1,3.0303030303030303,32,96.96969696969697,2.75,0.4337,0.7470545454545454,Non-significant
-34,     (40-70 dB),21,63.64,0,0.0,21,63.64,,,,Non-significant
-35,     (20-40 dB),9,27.27,1,3.03,8,24.24,,,,Non-significant
-36,     (70-90 dB),3,9.09,0,0.0,3,9.09,,,,Non-significant
-37,     (<20 dB),0,0.0,0,0.0,0,0.0,,,,Non-significant
-38,One_Month_Post_surgical_Tonal_Audiometry_Pathological_Ear,41,100.0,1,2.4390243902439024,40,97.5609756097561,0.7260416666666667,0.6586,0.7470545454545454,Non-significant
-39,     Sensorial HL,24,58.54,1,2.44,23,56.1,,,,Non-significant
-40,     Mixed HL,15,36.59,0,0.0,15,36.59,,,,Non-significant
-41,     Conductive HL,1,2.44,0,0.0,1,2.44,,,,Non-significant
-42,     No hearing loss,1,2.44,0,0.0,1,2.44,,,,Non-significant
-43,Hearing_impairment_One_Month_Post_surgical,41,100.0,1,2.4390243902439024,40,97.5609756097561,0.9761904761904762,0.664,0.7470545454545454,Non-significant
-44,     (20-40 dB),21,51.22,1,2.44,20,48.78,,,,Non-significant
-45,     (40-70 dB),18,43.9,0,0.0,18,43.9,,,,Non-significant
-46,     (<20 dB),1,2.44,0,0.0,1,2.44,,,,Non-significant
-47,     (70-90 dB),1,2.44,0,0.0,1,2.44,,,,Non-significant
-48,Otosclerosis_Contralateral_Ear,51,100.0,3,5.882352941176471,48,94.11764705882354,5.84375,0.4599,0.7470545454545454,Non-significant
-49,     No,18,35.29,3,5.88,15,29.41,,,,Non-significant
-50,     Surg. + and CT +,14,27.45,0,0.0,14,27.45,,,,Non-significant
-51,     Med_history - & CT +,12,23.53,0,0.0,12,23.53,,,,Non-significant
-52,     Med_history + & CT +,5,9.8,0,0.0,5,9.8,,,,Non-significant
-53,     Med_history + & CT +/-,1,1.96,0,0.0,1,1.96,,,,Non-significant
-54,     Med_history + & CT -,1,1.96,0,0.0,1,1.96,,,,Non-significant
-55,     Surg. + and CT -,0,0.0,0,0.0,0,0.0,,,,Non-significant
+,Variable,n,%,n (Non-otos),%(Non-otos),n(Otosclerosis),%(Otosclerosis),Chi2 stat,Chi2 p-value,result
+0,Sex,99,100.0,51,100.0,48,100.0,4.371473494780586,0.0436,Significant
+1,     Male,58,58.59,35,68.63,23,47.92,,,
+2,     Female,41,41.41,16,31.37,25,52.08,,,
+3,Pathological_Ear,99,100.0,51,100.0,48,100.0,0.4997539015606244,0.5445,Non-significant
+4,     Right ear,50,50.51,24,47.06,26,54.17,,,
+5,     Left ear,49,49.49,27,52.94,22,45.83,,,
+6,Hearing_impairment_Pathological_Ear,51,100.0,3,100.0,48,100.0,2.6314985795454544,0.7348,Non-significant
+7,     (40-70 dB),32,62.75,1,33.33,31,64.58,,,
+8,     (70-90 dB),11,21.57,1,33.33,10,20.83,,,
+9,     (20-40 dB),5,9.8,1,33.33,4,8.33,,,
+10,     (> 90 dB),2,3.92,0,0.0,2,4.17,,,
+11,     (<20 dB),1,1.96,0,0.0,1,2.08,,,
+12,Carhart_notch,51,100.0,3,100.0,48,100.0,0.39632936507936506,0.8243,Non-significant
+13,     Absence,28,54.9,2,66.67,26,54.17,,,
+14,     <15dB,18,35.29,1,33.33,17,35.42,,,
+15,     >15dB,5,9.8,0,0.0,5,10.42,,,
+16,Temporal_Bone_CT_scan_Findings_Pathological_Ear,99,100.0,51,100.0,48,100.0,74.35668103448276,0.0,Significant
+17,     No findings,58,58.59,51,100.0,7,14.58,,,
+18,     Fenestral,39,39.39,0,0.0,39,81.25,,,
+19,     Retro. + fenestral,2,2.02,0,0.0,2,4.17,,,
+20,Surgical_Treatment,51,100.0,3,100.0,48,100.0,33.30612244897959,0.0,Significant
+21,     Stapedotomy,49,96.08,1,33.33,48,100.0,,,
+22,     Stap. malformation,1,1.96,1,33.33,0,0.0,,,
+23,     Miring + prosthesis,1,1.96,1,33.33,0,0.0,,,
+24,Post_surgical_Vertigo,51,100.0,3,100.0,48,100.0,1.0349025974025976,0.3343,Non-significant
+25,     No,44,86.27,2,66.67,42,87.5,,,
+26,     Yes,7,13.73,1,33.33,6,12.5,,,
+27,One_Week_Post_surgical_Tonal_Audiometry_Pathological_Ear,33,100.0,1,100.0,32,100.0,33.0,0.0,Significant
+28,     Mixed HL,25,75.76,0,0.0,25,78.12,,,
+29,     Sensorial HL,7,21.21,0,0.0,7,21.88,,,
+30,     Conductive HL,1,3.03,1,100.0,0,0.0,,,
+31,Hearing_impairment_One_Week_Post_surgical,33,100.0,1,100.0,32,100.0,2.75,0.3009,Non-significant
+32,     (40-70 dB),21,63.64,0,0.0,21,65.62,,,
+33,     (20-40 dB),9,27.27,1,100.0,8,25.0,,,
+34,     (<20 dB),3,9.09,0,0.0,3,9.38,,,
+35,One_Month_Post_surgical_Tonal_Audiometry_Pathological_Ear,41,100.0,1,100.0,40,100.0,0.7260416666666667,1.0,Non-significant
+36,     Sensorial HL,24,58.54,1,100.0,23,57.5,,,
+37,     Mixed HL,15,36.59,0,0.0,15,37.5,,,
+38,     Conductive HL,1,2.44,0,0.0,1,2.5,,,
+39,     No hearing loss,1,2.44,0,0.0,1,2.5,,,
+40,Hearing_impairment_One_Month_Post_surgical,41,100.0,1,100.0,40,100.0,0.9761904761904762,1.0,Non-significant
+41,     (20-40 dB),21,51.22,1,100.0,20,50.0,,,
+42,     (40-70 dB),18,43.9,0,0.0,18,45.0,,,
+43,     (<20 dB),1,2.44,0,0.0,1,2.5,,,
+44,     (70-90 dB),1,2.44,0,0.0,1,2.5,,,
+45,Otosclerosis_Contralateral_Ear,51,100.0,3,100.0,48,100.0,5.84375,0.2976,Non-significant
+46,     No,18,35.29,3,100.0,15,31.25,,,
+47,     Surg. + and CT +,14,27.45,0,0.0,14,29.17,,,
+48,     Surg. + and CT -,12,23.53,0,0.0,12,25.0,,,
+49,     Med_history + & CT +,5,9.8,0,0.0,5,10.42,,,
+50,     Med_history + & CT +/-,1,1.96,0,0.0,1,2.08,,,
+51,     Med_history - & CT +,1,1.96,0,0.0,1,2.08,,,
