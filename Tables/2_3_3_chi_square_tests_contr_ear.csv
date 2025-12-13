@@ -1,7 +1,7 @@
 ,Variable,n,%,n (Non-otos),%(Non-otos),n(Otosclerosis),%(Otosclerosis),Chi2 stat,Chi2 p-value,FDR corrected p-value,result
-0,Sex,48,100.0,34,70.83333333333333,14,29.166666666666668,22.979185520361995,0.5019,0.6732,Non-significant
-1,     Male,35,72.92,32,66.67,3,6.25,,,,Non-significant
-2,     Female,13,27.08,2,4.17,11,22.92,,,,Non-significant
-3,Pathological_Ear,48,100.0,34,70.83333333333333,14,29.166666666666668,0.017537449762513604,0.6732,0.6732,Non-significant
-4,     Left ear,25,52.08,17,35.42,8,16.67,,,,Non-significant
-5,     Right ear,23,47.92,17,35.42,6,12.5,,,,Non-significant
+0,Sex,48,100.0,34,100.0,14,100.0,26.5323113860929,0.0,,Significant
+1,     Male,35,72.92,32,94.12,3,21.43,,,,
+2,     Female,13,27.08,2,5.88,11,78.57,,,,
+3,Pathological_Ear,48,100.0,34,100.0,14,100.0,0.20273291925465808,0.7536,,Non-significant
+4,     Left ear,25,52.08,17,50.0,8,57.14,,,,
+5,     Right ear,23,47.92,17,50.0,6,42.86,,,,
